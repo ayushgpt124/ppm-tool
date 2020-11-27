@@ -1,9 +1,9 @@
 # ppm-tool
 
 ## Overview:
-Project Management Tool 
-Managing projects can be difficult
-This tool can be used to effectively manage the projects for project managers or scrum masters.
+-Project Management Tool 
+-Managing projects can be difficult for managers
+-This tool can be used to effectively manage the projects for project owners or scrum masters.
 
 ## Technologies Used
 - Spring Boot
